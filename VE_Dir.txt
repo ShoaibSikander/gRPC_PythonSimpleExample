@@ -1,0 +1,3 @@
+source /mnt/c/Users/MSikander/AI/LS_VirtualEnvs/Dummy_gRPC_VirtualEnv/bin/activate
+
+cd /mnt/c/Users/MSikander/AI/LS_Projects/Dummy_gRPC_Project/
